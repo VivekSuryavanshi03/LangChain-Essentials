@@ -24,7 +24,7 @@ LangChain is a framework that simplifies the use of large language models (LLMs)
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/langchain-essentials.git
+   https://github.com/VivekSuryavanshi03/LangChain-Essentials.git
 
 ## Installation
 
