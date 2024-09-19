@@ -32,4 +32,14 @@ LangChain is a framework that simplifies the use of large language models (LLMs)
    ```bash
    pip install -r requirements.txt
 
+## 
+Feel free to adjust any details to better fit your project’s specifics!
+
+## Contact
+
+For any questions, feedback, or further queries, please reach out:
+
+- **Email**: [vksuryasingh8057@gmail.com](mailto:your-email@example.com)
+- **GitHub Issues**: [Submit an issue](https://github.com/VivekSuryavanshi03/langchain-chatbot-memory/issues)
+
 
