@@ -17,16 +17,16 @@ LangChain is a framework that simplifies the use of large language models (LLMs)
 
 
 - **/notebooks**: Jupyter notebooks showcasing various LangChain use cases.
-- **/docs**: Documentation explaining the essential LangChain concepts and code snippets.
+- **/docs**: Documentation explaining the essential LangChain concepts and code snippets..
 
 
-## Installation
+## Installation....
 
 1. Clone this repository:
    ```bash
    https://github.com/VivekSuryavanshi03/LangChain-Essentials.git
 
-## Installation
+## Installation....
 
 1. Install the required dependencies:
    ```bash
